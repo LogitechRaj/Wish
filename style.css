@@ -1,0 +1,21 @@
+body{
+    background-image: url(https://img.freepik.com/free-vector/abstract-watercolor-background_23-2149038179.jpg?w=826&t=st=1714893732~exp=1714894332~hmac=f6070d543f2a9ff41f72e7363c57c5cea632ca7415d675249bc64739b3e74f76);
+    background-size: cover;
+}
+
+.party1{
+    width: 200px;
+    height: 200px;
+}
+
+.party2{
+    width: 200px;
+    height: 200px;
+    margin-left: 800px;
+}
+
+.click{
+    margin-top: 0px;
+    margin-left: 400px;
+    cursor: pointer;
+}
